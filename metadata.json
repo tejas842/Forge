@@ -1,0 +1,6 @@
+{
+  "name": "Forge",
+  "description": "A local-first AI-powered development environment for generating, editing, and managing projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
